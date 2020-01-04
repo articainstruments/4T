@@ -18,6 +18,6 @@ PCB Dimensions: 100x25mm<br/>
 Designed by Guilherme Martins/guibot for Artica Instruments.<br/><br/>
 
 Creative Commons Attribution/Share-Alike 4.0.<br/>
-See license.txt for additional details.<br/>
+See license.md for additional details.<br/>
 The content of these files is distributed "AS IS" without warranty of any kind.<br/>
 All text above must be included in any redistribution.
